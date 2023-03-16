@@ -1,0 +1,8 @@
+apiVersion: intelops.ai/v1alpha1
+kind: Employee
+metadata:
+  name: mahendra
+  namespace: employee-system
+spec:
+  department: IT
+  role: developer
