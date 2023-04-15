@@ -63,7 +63,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"department":"IT","name": 
       "name":"mahendra",
       "role":"developer"
    },
-   "message":"john employee is created."
+   "message":"mahendra employee is created."
 }
 ```
 - Similarly, you can call other REST apis, e.g. GET api
